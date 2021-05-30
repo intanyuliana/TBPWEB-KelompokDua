@@ -23,7 +23,7 @@
           <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
             <li><a href="#" class="nav-link px-2 text-white">Home</a></li>
             <li><a href="#" class="nav-link px-2 text-white">Mahasiswa</a></li>
-            <li><a href="#" class="nav-link px-2 text-white">Kelas</a></li>
+            <li><a href="kelasadmin.php" class="nav-link px-2 text-white">Kelas</a></li>
           </ul>
           <div class="flex-shrink-0 dropdown">
             <a href="#" class="d-block link-light text-decoration-none dropdown-toggle" id="dropdownUser2" data-bs-toggle="dropdown" aria-expanded="false">
